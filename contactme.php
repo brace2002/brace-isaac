@@ -9,12 +9,12 @@
 
     $mailheader = "From:".$name."<.$email.">\r\n";
     
-    $recipient = "isaacomondi904@gmail.com";
+    $recipient = "isaacotienp212590@daystar.ac.ke";
     
     mail($recipient, $phone, $message, $mailheader)
     or die("Error!");
     
-    echo"message sent we will get back to you soon.THANK YOU";
+    echo"THANK YOU FOR CONTACTING IT COMPANY AND AGENCY | WELCOME...";
 
 
 ?>
